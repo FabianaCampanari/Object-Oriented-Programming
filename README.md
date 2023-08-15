@@ -8,6 +8,9 @@ Feel free to explore, contribute, and learn together with your peers. Happy codi
 
 #
 
+##  🛠️  Extra settings in the development environment
+
+
   - Command o install flake8 in your development environment
 
         py -m pip install flake8              # Windows
