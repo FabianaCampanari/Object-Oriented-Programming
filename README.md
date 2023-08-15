@@ -5,3 +5,7 @@ Welcome to the Object Oriented Programming repository for the Analysis and Syste
 Here you'll find exercises, exams, notes, and environment setup instructions relevant to the curriculum covered in class.
 
 Feel free to explore, contribute, and learn together with your peers. Happy coding!
+
+#
+
+Command o install flake8 in your development environment
