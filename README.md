@@ -22,4 +22,10 @@ Feel free to explore, contribute, and learn together with your peers. Happy codi
         python3 -m pip install pep8-naming    # Linux e MacOS
     
 
-  - After opening the JSON configuration file, add the following options to this file and save it.
+  - After opening the JSON configuration file, add the following options to this file and save it
+
+        {
+        "python.linting.pylintEnabled": false,
+        "python.linting.flake8Enabled": true,
+        "editor.renderWhitespace": "boundary",
+        }
