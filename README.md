@@ -14,6 +14,8 @@ Feel free to explore, contribute, and learn together with your peers.
 
 #### This the code below witch creates an instance of the Conta class, initializes the account with an initial balance of 0, then performs a deposit and a withdrawal operation on the account, printing the updated balance after each operation. But keep in mins that this is a basic example and doesn't include advanced error handling or more complex banking features.
 
+<img width="416" alt="Screenshot 2023-08-28 at 02 37 45" src="https://github.com/FabianaCampanari/2-POO_Vs/assets/113218619/d57f253a-3051-4ca9-bf00-d7569d385e0c">
+
 
 
 
