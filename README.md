@@ -53,14 +53,10 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [07_Modules and Packages.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450459/07_Modules.and.Packages.pdf)
 
+- [08_External Dependencies and Third-Party Libraries.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450495/08_External.Dependencies.and.Third-Party.Libraries.pdf)
 
 
-
-
-
-
-
-     #
+ #
 
   ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
 
