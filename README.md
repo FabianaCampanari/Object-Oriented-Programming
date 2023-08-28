@@ -12,7 +12,10 @@ Feel free to explore, contribute, and learn together with your peers.
 
 ## An Example of Code in OOP 
 
-#### This the code below witch creates an instance of the Conta class, initializes the account with an initial balance of 0, then performs a deposit and a withdrawal operation on the account, printing the updated balance after each operation. But keep in mins that this is a basic example and doesn't include advanced error handling or more complex banking features
+#### This the code below witch creates an instance of the Conta class, initializes the account with an initial balance of 0, then performs a deposit and a withdrawal operation on the account, printing the updated balance after each operation. But keep in mins that this is a basic example and doesn't include advanced error handling or more complex banking features.
+
+<img width="418" alt="Screenshot 2023-08-28 at 02 33 34" src="https://github.com/FabianaCampanari/2-POO_Vs/assets/113218619/bf5ec414-3b23-49e5-9077-5c848058695f">
+
 
 
 ##  🛠️  Extra settings in the development environment
