@@ -37,5 +37,5 @@ Happy coding!
 
     #
 
-📚 Support Material - Object-Oriented Programming in Python 
+# <p align="center"> 📚 Support Material - Object-Oriented Programming in Python 
     
