@@ -41,6 +41,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [01_Installing VS Code.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450318/01_Installing.VS.Code.pdf)
 
+- [02_Basic Python Review.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450386/02_Basic.Python.Review.pdf)
+
+
 
      #
     
