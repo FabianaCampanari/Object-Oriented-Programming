@@ -6,7 +6,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 Happy coding!
 
-< with love & joy /> ❦
+# <p align="center"> < with love & joy /> ❦
 
 #
 
