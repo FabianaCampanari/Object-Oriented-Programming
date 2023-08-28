@@ -49,6 +49,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [05_Creating Classes in Python.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450437/05_Creating.Classes.in.Python.pdf)
 
+- [06_Inheritance and Polymorphism.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450446/06_Inheritance.and.Polymorphism.pdf)
+
+
 
 
 
