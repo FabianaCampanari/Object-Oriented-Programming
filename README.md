@@ -51,6 +51,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [06_Inheritance and Polymorphism.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450446/06_Inheritance.and.Polymorphism.pdf)
 
+- [07_Modules and Packages.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450459/07_Modules.and.Packages.pdf)
+
+
 
 
 
