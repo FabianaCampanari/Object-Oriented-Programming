@@ -49,4 +49,6 @@ Feel free to explore, contribute, and learn together with your peers.
 
 
      #
+
+  ##### <p align="center"> ⚖︎ This project is licensed under the AGPL-3.0 License. </p>
     
