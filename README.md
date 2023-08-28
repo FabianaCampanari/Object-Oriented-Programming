@@ -43,6 +43,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [02_Basic Python Review.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450386/02_Basic.Python.Review.pdf)
 
+- [03 _Lists and Dictionaries in Python.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450408/03._Lists.and.Dictionaries.in.Python.pdf)
+
+
 
 
      #
