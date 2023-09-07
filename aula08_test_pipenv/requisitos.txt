@@ -1,0 +1,5 @@
+####  Quando for instalar na minha maquina servidor uso os requisitos:
+####  comando:   pip install requisitos
+
+requests==2.26.0
+
