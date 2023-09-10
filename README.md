@@ -68,6 +68,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [5_selection_structure.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567647/5_selection_structure.txt)
 
+- [6_sequences_tuples_for_in_ range.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567667/6_sequences_tuples_for_in_.range.txt)
+
+
 
 
 
