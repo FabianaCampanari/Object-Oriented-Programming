@@ -17,6 +17,9 @@ Feel free to explore, contribute, and learn together with your peers.
 <p align="center">
   <img src="https://github.com/FabianaCampanari/2-POO_Vs/assets/113218619/d57f253a-3051-4ca9-bf00-d7569d385e0c" /> 
 
+  <img width="387" alt="bank_accounts_code" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/c3cc09aa-899a-42a8-90a4-0a39d0b68988">
+
+
 #
 
 ##  🛠️  Extra settings in the development environment
