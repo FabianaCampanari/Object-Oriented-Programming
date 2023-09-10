@@ -50,8 +50,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 
 
-
-    #
+#
 
 ## 📚 Support Material - Object-Oriented Programming in Python 
 
