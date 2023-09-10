@@ -56,6 +56,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [1c_string_Concatenation_Formatting_{Evaluated Expression}.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567605/1c_string_Concatenation_Formatting_.Evaluated.Expression.txt)
 
+- [1d_float_Formatting.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567606/1d_float_Formatting.txt)
+
+
 
 
 
