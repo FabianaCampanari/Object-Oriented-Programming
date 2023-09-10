@@ -60,7 +60,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [1e_type()_Command.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567608/1e_type._Command.txt)
 
-
+- [2_debug_mode.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567610/2_debug_mode.txt)
 
 
 
