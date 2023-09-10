@@ -19,6 +19,51 @@ Feel free to explore, contribute, and learn together with your peers.
 
   <img width="387" alt="bank_accounts_code" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/c3cc09aa-899a-42a8-90a4-0a39d0b68988">
 
+  class BankAccount:
+    def __init__(self, number, holder):
+        self.number = number
+        self.holder = holder
+        self._balance = 0
+
+    @property
+    def balance(self):
+        return 'Your balance is: $ {self._balance}'
+
+    def deposit(self, amount):
+        self._balance += amount
+        print(f'Deposit completed. Balance: $ {self._balance}')
+
+    def withdraw(self, amount):
+        if amount > self._balance:
+            print(f'Withdrawal failed. Insufficient balance: $ {self._balance}')
+            return 0
+        self._balance -= amount
+        print(f'Withdrawal completed. Balance: $ {self._balance}')
+        return amount
+
+
+class SavingsAccount(BankAccount):
+    def __init__(self, number, holder):
+        self.interest_rate = 0.5
+        super().__init__(number, holder)
+
+
+class InvestmentAccount(BankAccount):
+    def __init__(self, number, holder, manager):
+        self.manager = manager
+        super().__init__(number, holder)
+
+    def withdraw(self, amount):
+        print('Checking investment term...')
+        print('Calculating taxes and fees...')
+        print('Making the withdrawal...')
+        return super().withdraw(amount)
+
+    def invest(self, amount):
+        print('Checking if it is possible to make the investment...')
+        self._balance += amount
+
+
 
 #
 
