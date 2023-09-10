@@ -19,6 +19,8 @@ Feel free to explore, contribute, and learn together with your peers.
 
   <img width="387" alt="bank_accounts_code" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/c3cc09aa-899a-42a8-90a4-0a39d0b68988">
 
+<img width="768" alt="Bank_Accounts_Framework" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/a69675cc-3993-4ddb-b642-33a246e2d3fd">
+
   
 
 
