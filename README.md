@@ -64,6 +64,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [3_dictionaries.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567617/3_dictionaries.txt)
 
+- [4_repetition_structure.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567645/4_repetition_structure.txt)
+
+
 
 
 
