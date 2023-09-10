@@ -62,6 +62,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [2_debug_mode.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567610/2_debug_mode.txt)
 
+- [3_dictionaries.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567617/3_dictionaries.txt)
+
+
 
 
 
