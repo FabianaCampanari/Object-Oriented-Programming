@@ -54,6 +54,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [1b__strings with more than one line.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567601/1b__strings.with.more.than.one.line.txt)
 
+- [1c_string_Concatenation_Formatting_{Evaluated Expression}.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567605/1c_string_Concatenation_Formatting_.Evaluated.Expression.txt)
+
+
 
 
 
