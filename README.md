@@ -58,6 +58,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [1d_float_Formatting.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567606/1d_float_Formatting.txt)
 
+- [1e_type()_Command.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567608/1e_type._Command.txt)
+
+
 
 
 
