@@ -66,6 +66,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [4_repetition_structure.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567645/4_repetition_structure.txt)
 
+- [5_selection_structure.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567647/5_selection_structure.txt)
+
+
 
 
 
