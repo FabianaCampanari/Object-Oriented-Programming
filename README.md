@@ -61,6 +61,8 @@ These commands help you manage Python dependencies by creating a virtual environ
          pip freeze > requirements.txt
 
   - Deactivate the current virtual environment:
+
+         deactivate
   
 
   
