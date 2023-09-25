@@ -60,7 +60,8 @@ Feel free to explore, contribute, and learn together with your peers.
 
          source .venv/bin/activate    # Activate
 
-         pip install -r requirements.txt
+         pip install -r requirements.txt    # Install requirements.txt     
+
 
 
 #
