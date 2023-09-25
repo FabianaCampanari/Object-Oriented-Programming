@@ -48,9 +48,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
          # MacOS
 
-     pip freeze
+         pip freeze
 
-        pip freeze > requirements.txt
+         pip freeze > requirements.txt
 
 
 
