@@ -48,7 +48,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
          # MacOS abd Ubuntu
 
-         pip freeze
+         pip freeze   # MacOS abd Ubuntu
 
          pip freeze > requirements.txt
 
