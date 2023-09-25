@@ -48,6 +48,8 @@ Feel free to explore, contribute, and learn together with your peers.
 
         pip freeze
 
+        pip freeze > requirements.txt
+
 
 
 
