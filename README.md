@@ -44,7 +44,7 @@ Feel free to explore, contribute, and learn together with your peers.
         }
 
 
-  - After opening the JSON configuration file
+  - Installation Commands for New Hidden Virtual Environment .venv
 
 
 
