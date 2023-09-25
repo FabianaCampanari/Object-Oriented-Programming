@@ -21,14 +21,14 @@ Feel free to explore, contribute, and learn together with your peers.
 ##  🛠️  Extra settings in the development environment
 
 
-  - Command o install flake8 in your development environment
+  - Command  install flake8 in your development environment
 
         py -m pip install flake8              # Windows
 
         python3 -m pip install flake8         # Linux and MacOS
     
   
-  - Command o install pep8-naming in your development environment
+  - Command  install pep8-naming in your development environment
 
         py -m pip install pep8-naming         # Windows
    
@@ -44,7 +44,7 @@ Feel free to explore, contribute, and learn together with your peers.
         }
 
 
-  - Installation Commands for New Hidden Virtual Environment .venv
+  - Managing Python Dependencies with Pip Freeze and Requirements
 
 
          pip freeze   # MacOS and Ubuntu
