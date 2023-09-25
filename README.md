@@ -63,6 +63,8 @@ These commands help you manage Python dependencies by creating a virtual environ
   - Deactivate the current virtual environment:
 
          deactivate
+
+  - Create a new virtual environment named .venv:
   
 
   
