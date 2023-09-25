@@ -56,7 +56,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
          deactivate  
 
-         python3 -m venv .venv 
+         python3 -m venv .venv    # Create Enviromment 
 
 
 #
