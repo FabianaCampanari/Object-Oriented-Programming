@@ -59,6 +59,8 @@ These commands help you manage Python dependencies by creating a virtual environ
   - Save the list of installed packages to a requirements.txt file:
 
          pip freeze > requirements.txt
+
+  - Deactivate the current virtual environment:
   
 
   
