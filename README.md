@@ -46,7 +46,9 @@ Feel free to explore, contribute, and learn together with your peers.
 
   - Installation Commands for New Hidden Virtual Environment .venv
 
-        pip freeze
+         # MacOS
+
+     pip freeze
 
         pip freeze > requirements.txt
 
