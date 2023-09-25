@@ -70,6 +70,8 @@ These commands help you manage Python dependencies by creating a virtual environ
 
 
   - Activate the newly created virtual environment:
+
+         source .venv/bin/activate
   
 
   
