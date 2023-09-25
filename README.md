@@ -55,6 +55,8 @@ Feel free to explore, contribute, and learn together with your peers.
           pip freeze
 
   - Save the list of installed packages to a requirements.txt file:
+
+         pip freeze > requirements.txt
   
 
   
