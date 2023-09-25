@@ -46,7 +46,6 @@ Feel free to explore, contribute, and learn together with your peers.
 
   - Installation Commands for New Hidden Virtual Environment .venv
 
-         # MacOS abd Ubuntu
 
          pip freeze   # MacOS and Ubuntu
 
