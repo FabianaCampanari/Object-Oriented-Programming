@@ -81,7 +81,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 #
 
-## 📚 Support Material - Object-Oriented Programming in Python 
+## 📚 Support Material Object Oriented Programming in Python 
 
 - [01_Installing VS Code.pdf](https://github.com/FabianaCampanari/2-POO_Vs/files/12450318/01_Installing.VS.Code.pdf)
 
