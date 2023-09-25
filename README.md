@@ -21,7 +21,8 @@ Feel free to explore, contribute, and learn together with your peers.
 ##  🛠️ Additional options available in the development environment
 
 
-  - 
+  - Command to Install Flake8 in Your Development Environment
+ 
 
         py -m pip install flake8              # Windows
 
