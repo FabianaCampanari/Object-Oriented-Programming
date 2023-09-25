@@ -51,6 +51,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
          pip freeze > requirements.txt
 
+         pip freeze > requirements.txt
 
 
 
