@@ -29,7 +29,7 @@ Feel free to explore, contribute, and learn together with your peers.
         python3 -m pip install flake8         # Linux and MacOS
     
   
-  - Command  install pep8-naming in your development environment
+  - 
 
         py -m pip install pep8-naming         # Windows
    
