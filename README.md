@@ -48,8 +48,6 @@ Feel free to explore, contribute, and learn together with your peers.
   - Creating a Virtual Environment on macOS Using pip and venv
 
 
-         # MacOS and Ubuntu #
-    
          pip freeze   
 
          pip freeze > requirements.txt
