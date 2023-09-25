@@ -74,6 +74,8 @@ These commands help you manage Python dependencies by creating a virtual environ
          source .venv/bin/activate
 
   - Install packages listed in the requirements.txt file:
+
+         pip install -r requirements.txt
   
 
   
