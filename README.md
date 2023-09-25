@@ -36,7 +36,7 @@ Feel free to explore, contribute, and learn together with your peers.
         python3 -m pip install pep8-naming    # Linux and MacOS
     
 
-  - Adding Options to a JSON Configuration File
+  - Set of Commands Adding Options to a JSON Configuration File
 
         {
         "python.linting.pylintEnabled": false,
