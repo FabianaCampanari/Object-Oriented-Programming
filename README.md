@@ -25,14 +25,14 @@ Feel free to explore, contribute, and learn together with your peers.
 
         py -m pip install flake8              # Windows
 
-        python3 -m pip install flake8         # Linux e MacOS
+        python3 -m pip install flake8         # Linux and MacOS
     
   
   - Command o install pep8-naming in your development environment
 
         py -m pip install pep8-naming         # Windows
    
-        python3 -m pip install pep8-naming    # Linux e MacOS
+        python3 -m pip install pep8-naming    # Linux and MacOS
     
 
   - After opening the JSON configuration file, add the following options to this file and save it
@@ -48,7 +48,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
          # MacOS abd Ubuntu
 
-         pip freeze   # MacOS abd Ubuntu
+         pip freeze   # MacOS and Ubuntu
 
          pip freeze > requirements.txt
 
