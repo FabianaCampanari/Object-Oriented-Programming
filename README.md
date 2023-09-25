@@ -9,7 +9,7 @@ Feel free to explore, contribute, and learn together with your peers.
 #### <p align="center"> < with love & joy /> ❦
 
 
-## 👨‍💻 An Example of OOP_Code 
+## 👨‍💻 An Example of OOP Code 
 
 #### The code below provides a simple framework for managing different types of bank accounts, including savings and investment accounts, and allows for basic operations like deposits and withdrawals. The InvestmentAccount class extends the functionality of the base BankAccount class to handle specific investment-related actions.
 
