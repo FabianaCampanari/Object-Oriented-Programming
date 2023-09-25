@@ -48,7 +48,9 @@ Feel free to explore, contribute, and learn together with your peers.
   - Managing Python Dependencies with Pip Freeze and Requirements
 
 
-         pip freeze   # MacOS and Ubuntu
+         # MacOS and Ubuntu #
+    
+         pip freeze   
 
          pip freeze > requirements.txt
 
