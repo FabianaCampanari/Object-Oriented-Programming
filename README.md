@@ -18,7 +18,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 #
 
-##  🛠️  Extra settings in the development environment
+##  🛠️ dditional options available in the development environmen
 
 
   - Command  install flake8 in your development environment
