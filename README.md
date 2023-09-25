@@ -52,6 +52,8 @@ Feel free to explore, contribute, and learn together with your peers.
 
   -  List installed Python packages and their versions:
 
+          pip freeze
+
   
 
 
