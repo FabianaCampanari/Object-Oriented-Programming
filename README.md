@@ -58,7 +58,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
          python3 -m venv .venv    # Create Enviromment
 
-         source .venv/bin/activate
+         source .venv/bin/activate    # Activate
 
 
 #
