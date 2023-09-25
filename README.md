@@ -45,7 +45,9 @@ Feel free to explore, contribute, and learn together with your peers.
         }
 
 
-  - Creating a Virtual Environment on macOS Using pip and venv
+
+
+## Creating a Virtual Environment on macOS Using pip and venv
 
 
          pip freeze   
