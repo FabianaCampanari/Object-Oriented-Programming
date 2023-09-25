@@ -45,7 +45,7 @@ Feel free to explore, contribute, and learn together with your peers.
         }
 
 
-  - Managing Python Dependencies with Pip Freeze and Requirements
+  - Creating a Virtual Environment on macOS Using pip and venv
 
 
          # MacOS and Ubuntu #
