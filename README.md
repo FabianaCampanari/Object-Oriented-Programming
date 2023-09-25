@@ -43,6 +43,12 @@ Feel free to explore, contribute, and learn together with your peers.
         "editor.renderWhitespace": "boundary",
         }
 
+
+  - After opening the JSON configuration file
+
+
+
+
 #
 
 ## 🐍 OPP - Codes
