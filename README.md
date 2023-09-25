@@ -50,18 +50,9 @@ Feel free to explore, contribute, and learn together with your peers.
 ## Creating a Virtual Environment on macOS Using pip and venv
 
 
-         pip freeze   
+  -  List installed Python packages and their versions:
 
-         pip freeze > requirements.txt
-
-         deactivate  
-
-         python3 -m venv .venv    # Create Enviromment
-
-         source .venv/bin/activate    # Activate
-
-         pip install -r requirements.txt    # Install requirements.txt     
-
+  
 
 
 #
