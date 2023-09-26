@@ -111,17 +111,6 @@ This docstring provides an explanation of the property class and its constructor
 
 - [6_sequences_tuples_for_in_ range.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567667/6_sequences_tuples_for_in_.range.txt)
 
-- [9_
-
-
-
-
-
-
-
-
-
-
 #
 
 ## 📚 Support Material Object Oriented Programming in Python 
