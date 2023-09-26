@@ -79,9 +79,6 @@ These commands help you manage Python dependencies by creating a virtual environ
 
   
 
-
-#
-
 ## 🐍 OPP - Codes
 
 - [1_float_ examples of numbers represented in floating point in Python.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567590/1_float_.examples.of.numbers.represented.in.floating.point.in.Python.txt)
