@@ -150,6 +150,9 @@ This docstring provides an explanation of the property class and its constructor
 
 - [11_Advanced Object-Oriented Topics.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723232/11_Advanced.Object-Oriented.Topics.pdf)
 
+- [12_Introduction to Design Patterns and SOLID Principles..pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723308/12_Introduction.to.Design.Patterns.and.SOLID.Principles.pdf)
+
+
 
 
 
