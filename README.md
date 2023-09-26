@@ -49,7 +49,7 @@ The code below provides a simple framework for managing different types of bank 
 
 ## 🖥️ Creating a Virtual Environment on macOS Using pip and venv
 
-These commands help you manage Python dependencies by creating a virtual environment, saving installed packages to a file, and then installing those packages when needed. 📱 is optional
+These commands help you manage Python dependencies by creating a virtual environment, saving installed packages to a file, and then installing those packages when needed. 📱 is 
 
   -  List installed Python packages and their versions:
 
