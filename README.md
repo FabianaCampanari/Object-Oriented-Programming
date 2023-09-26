@@ -148,6 +148,9 @@ This docstring provides an explanation of the property class and its constructor
 
 - [10_File Manipulation.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723198/10_File.Manipulation.pdf)
 
+- [11_Advanced Object-Oriented Topics.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723208/11_Advanced.Object-Oriented.Topics.pdf)
+
+
 
 
 
