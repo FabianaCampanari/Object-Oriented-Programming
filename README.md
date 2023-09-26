@@ -47,7 +47,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 
 
-## Creating a Virtual Environment on macOS Using pip and venv
+## 🖥️ Creating a Virtual Environment on macOS Using pip and venv
 
 These commands help you manage Python dependencies by creating a virtual environment, saving installed packages to a file, and then installing those packages when needed. The last command is optional and duplicates the previous one.
 
