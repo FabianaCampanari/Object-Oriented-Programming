@@ -78,6 +78,10 @@ These commands help you manage Python dependencies by creating a virtual environ
          pip install -r requirements.txt
   
 #
+
+This docstring provides an explanation of the property class and its constructor, including the optional arguments fget, fset, fdel, and doc, along with descriptions of what each argument does.
+
+
   
 ## 🐍 OPP - Codes
 
