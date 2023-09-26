@@ -11,7 +11,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 ## 👨‍💻 An Example of OOP Code 
 
-#### The code below provides a simple framework for managing different types of bank accounts, including savings and investment accounts, and allows for basic operations like deposits and withdrawals. The InvestmentAccount class extends the functionality of the base BankAccount class to handle specific investment-related actions.
+The code below provides a simple framework for managing different types of bank accounts, including savings and investment accounts, and allows for basic operations like deposits and withdrawals. The InvestmentAccount class extends the functionality of the base BankAccount class to handle specific investment-related actions.
 
 
 <img width="768" alt="Bank_Accounts_Framework" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/a69675cc-3993-4ddb-b642-33a246e2d3fd">
