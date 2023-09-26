@@ -2,7 +2,7 @@
 
 Welcome to the Object Oriented Programming repository for the Analysis and Systems Development Program at Impacta Technology University - São Paulo - Brazil! 
 Here you'll find exercises, exams, notes, and environment setup instructions relevant to the curriculum covered in class.
-Feel free to explore, contribute, and learn together with your peers. 
+Feel free to explore, contribute, and learn together with your peers.
 
 😎 Happy coding!
 
@@ -77,7 +77,6 @@ These commands help you manage Python dependencies by creating a virtual environ
 
          pip install -r requirements.txt
   
-#
 
 This docstring provides an explanation of the property class and its constructor, including the optional arguments fget, fset, fdel, and doc, along with descriptions of what each argument does.
 
