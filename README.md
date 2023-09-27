@@ -91,11 +91,12 @@ Feel free to explore, contribute, and learn together with your peers.
 ##### This docstring provides an explanation of the property class and its constructor, including the optional arguments fget, fset, fdel, and doc, along with descriptions of what each argument does.
 
 <img width="503" alt="Screenshot 2023-09-26 at 02 15 04" src="https://github.com/FabianaCampanari/Object-Oriented-
+<img width="495" alt="Screenshot 2023-09-27 at 02 31 23" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/5f2854d3-0ad8-45be-bf13-390f62124096">
 
-<img width="783" alt="Screenshot 2023-09-27 at 02 28 33" src="https://
 
   
-## 🐍 OPP - Codes
+## 🐍 OPP - Codes![Uploading Screenshot 2023-09-27 at 02.31.23.png…]()
+
 
 - [1_float_ examples of numbers represented in floating point in Python.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567590/1_float_.examples.of.numbers.represented.in.floating.point.in.Python.txt)
 
