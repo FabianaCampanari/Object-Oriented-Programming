@@ -146,8 +146,6 @@ This docstring provides an explanation of the property class and its constructor
 
  #
 
-  ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
-
-  ##### <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
+  ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
     
