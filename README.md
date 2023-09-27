@@ -86,17 +86,13 @@ Feel free to explore, contribute, and learn together with your peers.
 
 
 
-
-
 ##   @property class and its argunents
-
   
 ##### This docstring provides an explanation of the property class and its constructor, including the optional arguments fget, fset, fdel, and doc, along with descriptions of what each argument does.
 
 <img width="503" alt="Screenshot 2023-09-26 at 02 15 04" src="https://github.com/FabianaCampanari/Object-Oriented-
 
-<img width="783" alt="Screenshot 2023-09-27 at 02 28 33" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/8ce75f76-60ff-4e66-8463-36618dd46a37">
-
+<img width="783" alt="Screenshot 2023-09-27 at 02 28 33" src="https://
 
   
 ## 🐍 OPP - Codes
