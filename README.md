@@ -139,7 +139,10 @@ This docstring provides an explanation of the property class and its constructor
 
 - [9_Unit Testing and Error Handling 2.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723159/9_Unit.Testing.and.Error.Handling.2.pdf)
 
-- [10_File Manipulation.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723198/10_File.Manipulation.pdf)
+
+- 10_File Manipulation.pdf
+
+main
 
 - [11_Advanced Object-Oriented Topics.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723232/11_Advanced.Object-Oriented.Topics.pdf)
 
