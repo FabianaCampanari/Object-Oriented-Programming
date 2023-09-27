@@ -80,7 +80,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 ## 👨‍💻 Code for GitHub Actions 
 
-Code for a GitHub Actions workflow. It defines how to build and test a Python project.
+##### Code for a GitHub Actions workflow. It defines how to build and test a Python project.
 
 <img width="783" alt="Screenshot 2023-09-27 at 02 28 33" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/f4d27423-fa44-4d23-855d-c8dde2cab9d4">
 
