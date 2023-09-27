@@ -8,7 +8,6 @@ Feel free to explore, contribute, and learn together with your peers.
 
 #### <p align="center"> < with love & joy /> ❦
 
-##
 
 ## 👨‍💻 An Example of OOP Code 
 
