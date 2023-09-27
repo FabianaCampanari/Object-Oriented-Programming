@@ -8,7 +8,6 @@ Feel free to explore, contribute, and learn together with your peers.
 
 #### <p align="center"> < with love & joy /> ❦
 
-##
 
 ## 👨‍💻 An Example of OOP Code 
 
@@ -78,7 +77,14 @@ These commands help you manage Python dependencies by creating a virtual environ
          pip install -r requirements.txt
 
 
-##   property class and its argunents
+
+## 👨‍💻 Code for GitHub Actions - build and test a Python Project
+
+<img width="803" alt="Screenshot 2023-09-27 at 02 07 56" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/0bbc4b5e-4a36-4f6a-a8a8-50da0d8e3d63">
+
+
+
+##   @property class and its argunents
 
   
 This docstring provides an explanation of the property class and its constructor, including the optional arguments fget, fset, fdel, and doc, along with descriptions of what each argument does.
@@ -111,19 +117,6 @@ This docstring provides an explanation of the property class and its constructor
 
 - [6_sequences_tuples_for_in_ range.txt](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12567667/6_sequences_tuples_for_in_.range.txt)
 
-- [9_Introduction to Test-Driven Development (TDD)_Unit Tests and Exception Handling..pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723135/9_Introduction.to.Test-Driven.Development.TDD._Unit.Tests.and.Exception.Handling.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
 #
 
 ## 📚 Support Material Object Oriented Programming in Python 
@@ -146,14 +139,22 @@ This docstring provides an explanation of the property class and its constructor
 
 - [9_Unit Testing and Error Handling 2.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723159/9_Unit.Testing.and.Error.Handling.2.pdf)
 
+
 - 10_File Manipulation.pdf
+
+main
+
+- [11_Advanced Object-Oriented Topics.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723232/11_Advanced.Object-Oriented.Topics.pdf)
+
+- [12_Introduction to Design Patterns and SOLID Principles..pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723308/12_Introduction.to.Design.Patterns.and.SOLID.Principles.pdf)
+
+
+
 
 
 
  #
 
-  ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. </p>
-
-  ##### <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
+  ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
     
