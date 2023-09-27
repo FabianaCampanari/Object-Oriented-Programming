@@ -80,7 +80,6 @@ These commands help you manage Python dependencies by creating a virtual environ
 
 ## 👨‍💻 Code for GitHub Actions - build and test a Python Project
 
-<img width="803" alt="Screenshot 2023-09-27 at 02 07 56" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/0bbc4b5e-4a36-4f6a-a8a8-50da0d8e3d63">
 
 
 
