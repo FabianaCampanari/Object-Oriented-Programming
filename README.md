@@ -91,8 +91,7 @@ These commands help you manage Python dependencies by creating a virtual environ
   
 This docstring provides an explanation of the property class and its constructor, including the optional arguments fget, fset, fdel, and doc, along with descriptions of what each argument does.
 
-<img width="503" alt="Screenshot 2023-09-26 at 02 15 04" src="https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/839baff2-acaf-4ba3-a002-414edb51f915">
-
+<img width="503" alt="Screenshot 2023-09-26 at 02 15 04" src="https://github.com/FabianaCampanari/Object-Oriented-
 
   
 ## 🐍 OPP - Codes
