@@ -47,7 +47,7 @@ The code below provides a simple framework for managing different types of bank 
 
 
 
-##  🖥️  Creating a Virtual Environment on IOS using pip and venv
+##  🖥️  Creating a Virtual Environment on IOS and Ubintu - pip and venv
 
 These commands help you manage Python dependencies by creating a virtual environment, saving installed packages to a file, and then installing those packages when needed.
 
