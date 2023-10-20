@@ -155,13 +155,6 @@ main
 - [12_Introduction to Design Patterns and SOLID Principles..pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723308/12_Introduction.to.Design.Patterns.and.SOLID.Principles.pdf)
 
 
-
-- [11_Advanced Object-Oriented Topics.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723208/11_Advanced.Object-Oriented.Topics.pdf)
-
-
-
-
-
  #
 
   ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
