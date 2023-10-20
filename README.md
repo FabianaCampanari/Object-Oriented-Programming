@@ -156,5 +156,4 @@ Feel free to explore, contribute, and learn together with your peers.
 
   ##### <p align="center"> ⚖︎ This project is licensed under the MIT License. <p align="center"> Copyright (c) 2023 Fabiana Campanari - All Rights Reserved </p>
 
-    [10_File Manipulation.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/13058998/10_File.Manipulation.pdf)
 
