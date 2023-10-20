@@ -145,8 +145,7 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [9_Unit Testing and Error Handling 2.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723159/9_Unit.Testing.and.Error.Handling.2.pdf)
 
-
-
+- [10_File Manipulation.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/13058998/10_File.Manipulation.pdf)
 
 - [11_Advanced Object-Oriented Topics.pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723232/11_Advanced.Object-Oriented.Topics.pdf)
 
