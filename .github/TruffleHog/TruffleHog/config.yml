@@ -1,7 +1,7 @@
 # Verification Server Example
-
+r
 # Unless you run a verification server, secrets found by the custom regex detector will be unverified. 
-# Here is an example Python implementation of a verification server for the above config.yaml file.
+# Here is an example Python implementation of a verification server for the Regex Detector config.yaml file.
 
 
 import json
