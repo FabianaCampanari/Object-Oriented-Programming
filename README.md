@@ -156,8 +156,6 @@ Feel free to explore, contribute, and learn together with your peers.
 ###### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the Apache-2.0 license.]()
  
 
-https://github.com/FabianaCampanari/Object-Oriented-Programming/blob/dcd4692a62cb2c618cd60d4f73469a6c6f299246/LICENSE
-
 
 
  
