@@ -151,6 +151,14 @@ Feel free to explore, contribute, and learn together with your peers.
 
 - [12_Introduction to Design Patterns and SOLID Principles..pdf](https://github.com/FabianaCampanari/Object-Oriented-Programming/files/12723308/12_Introduction.to.Design.Patterns.and.SOLID.Principles.pdf)
 
+#
+
+###### <p align="center"> [Copyright 2023 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/9bc7ac46f8c38e95344ba3dac8cb07c527bb5226/LICENSE)
+ 
+
+
+
+
 
  
 
