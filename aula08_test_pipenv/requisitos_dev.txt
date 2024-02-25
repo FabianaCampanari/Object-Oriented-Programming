@@ -1,6 +1,0 @@
-####  Quando for instalar na minha maquina desenvolvedor uso os requisitos_dev
-
-#### comando:   pip install requisitos_dev
-
--r requisitos.txt
-pytest==*
