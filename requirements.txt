@@ -1,0 +1,3 @@
+# requirements.txt
+# This file lists the packages that are required to run the python app
+# To install them, run: pip install -r requirements.txt
