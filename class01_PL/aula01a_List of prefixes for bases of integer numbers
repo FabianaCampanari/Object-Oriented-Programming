@@ -1,1 +1,21 @@
 # List of prefixes for bases of integer numbers
+'''Binary Prefix 0bXXXX_XXXX'''
+'Binary Prefix 0bXXXX_XXXX'
+0b1110_0101 # remove the _ after the 0b
+229
+
+'''Octal(8) Prefix 0oXXX'''
+'Octal(8) Prefix 0oXXX'
+0o345
+229
+
+'''Decimal Prefix - DOES NOT HAVE'''
+'Decimal Prefix - DOES NOT HAVE'
+229
+229
+
+'''Hexadecimal(16)Prefix 0xXX'''
+'Hexadecimal(16)Prefix 0xXX'
+0xe5 # use lowercase letters for the hexadecimal digits
+229
+
