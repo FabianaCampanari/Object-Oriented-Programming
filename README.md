@@ -1,8 +1,10 @@
 <br>
 
-![OPP](https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/03222b97-f875-4176-8041-bfc05061647e)
-
 # <p align="center"> 🧬 Object Oriented Programming 
+
+
+
+![OPP](https://github.com/FabianaCampanari/Object-Oriented-Programming/assets/113218619/03222b97-f875-4176-8041-bfc05061647e)
 
 Welcome to the Object Oriented Programming repository for the Analysis and Systems Development Program at Impacta Technology University - São Paulo - Brazil! 
 Here you'll find exercises, exams, notes, and environment setup instructions relevant to the curriculum covered in class.
