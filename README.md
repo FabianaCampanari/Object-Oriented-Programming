@@ -9,7 +9,7 @@ Feel free to explore, contribute, and learn together with your peers.
 😎 Happy coding!
 
 
-### <p align="center">  ***< with vibe, frequency & joy />*** 🪬  </p>
+### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
 
 
 ## 👨‍💻 An Example of OOP Code 
